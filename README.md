@@ -11,6 +11,11 @@ I’m a software engineer specializing in building web applications that add imp
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moryno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moryno)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## My Current Tech Stack
 - ### Language 
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,10 +35,6 @@ I’m a software engineer specializing in building web applications that add imp
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moryno)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moryno)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Let's Get Social
 
