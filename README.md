@@ -5,8 +5,8 @@
 I’m a software engineer specializing in building web applications that add impact to the community. I mainly program in Javascript but I am also profficient in Ruby and MySql. For me everyday is a learning day YEEY!! I love clean code and well written code and team best practices like CI/CD integrations and testing.
 
   - I'm currently available for hire or open to new job opportunities or collaboration
-  - 🔭 Working on multiple frontend and backend project using React, MongoDB, SQL and Ruby on Rails
-  - 🌱 I’m currently taking a course Ruby on Rails at Moringa School
+  - 🔭 Working on multiple frontend and backend project using React, Nodejs, MongoDB, SQL and Ruby on Rails
+  - 🌱 I’m currently learning mobile development with React Native
   - 💬 Ask me about anything JavaScript
 
 ---
