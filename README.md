@@ -1,13 +1,27 @@
-## Hi there 👋, I'm Maurice
+# Hi there 👋, I'm Maurice Nganga  
 
 ---
+![Maurice Cover](./assets/me-cover.png)
 
-I’m a software engineer specializing in building web applications that add impact to the community. I mainly program in Javascript on on strong emphasis on TypeScript but I am also profficient in C#.NET Core and Microsoft SQLServer. For me everyday is a learning day YEEY!! I love clean code and well written code and team best practices like CI/CD integrations and testing.
+I'm a **Frontend Developer** passionate about creating web applications that make a meaningful impact on the community. With a strong emphasis on **JavaScript** and **TypeScript**, I specialize in building scalable, efficient, and user-friendly solutions. My expertise also extends to **C# .NET Core**, **Microsoft SQL Server**, and modern web frameworks like **React** and **Next.js**.  
 
-  - I'm currently available for hire or open to new job opportunities or collaboration
-  - 🔭 Working on multiple frontend and backend project using React, Nodejs, MongoDB, SQL and Ruby on Rails
-  - 🌱 I’m currently learning mobile development with React Native
-  - 💬 Ask me about anything JavaScript
+Every day is a learning day 🎉, and I strive to write clean, maintainable code while adhering to team best practices like **CI/CD integrations**, **testing**, and modern **Micro-Frontend architectures**.  
+
+## 🔧 What I'm Up To  
+- 🔭 Working on projects that involve **React**, **Next.js**, **Redux**, **GraphQL**, **Node.js**, **MongoDB**, and **Cloudinary** integrations.  
+- 🌱 Expanding my knowledge with **AWS Cloud Practitioner Certification (CLF-C02)** and exploring **Serverless architecture**.  
+- 🛠 Contributing to open-source and participating in **hackathons**. My team recently placed **1st runner-up** in a hackathon by **Ushahidi and Celo Foundation**.  
+
+## 💬 Ask Me About  
+- Front-end technologies like **React**, **Next.js**, and **Tailwind CSS**.  
+- Optimizing web performance and implementing Micro-Frontend architectures.  
+- Using tools like **Redux Toolkit**, **React Query**, and **Axios** effectively.  
+- Anything about **JavaScript**, **TypeScript**, or **.NET Core**.  
+
+## 🌟 Fun Facts  
+- Advocate for clean, efficient code and **continuous improvement** in software practices.  
+- Actively involved in communities like **Celo Kenya** a blockchain community in kenya.  
+- I believe in lifelong learning and enjoy exploring **new technologies** and **innovations** in web development.  
 
 ---
 
@@ -20,20 +34,21 @@ I’m a software engineer specializing in building web applications that add imp
 - ### Language 
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit)
-  ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
+- ### Front-End  
+   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+   ![CSS3 Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
+   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+   ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+   ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+   ![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
+
 - ### Databases
    ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
    ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-- ### Front-End
-   ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-   ![Styled-Component Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-
----
 
 
 ## Let's Get Social
@@ -41,7 +56,13 @@ I’m a software engineer specializing in building web applications that add imp
 <a href="https://www.linkedin.com/in/maurice-nganga-a6668b213/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://bsky.app/@mauricenganga">
+  <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white">
+</a>
 
+<a href="mailto:mauricenganga41@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://twitter.com/MauriceNganga5">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
