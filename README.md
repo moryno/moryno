@@ -9,14 +9,14 @@ Every day is a learning day 🎉, and I strive to write clean, maintainable code
 
 ## 🔧 What I'm Up To  
 - 🔭 Working on projects that involve **React**, **Next.js**, **Redux**, **GraphQL**, **Node.js**, **MongoDB**, and **Cloudinary** integrations.  
-- 🌱 Expanding my knowledge with **AWS Cloud Practitioner Certification (CLF-C02)** and exploring **Serverless architecture**.  
+- 🌱 Expanding my knowledge with **System Design** and exploring **Serverless architecture**.  
 - 🛠 Contributing to open-source and participating in **hackathons**. My team recently placed **1st runner-up** in a hackathon by **Ushahidi and Celo Foundation**.  
 
 ## 💬 Ask Me About  
 - Front-end technologies like **React**, **Next.js**, and **Tailwind CSS**.  
 - Optimizing web performance and implementing Micro-Frontend architectures.  
 - Using tools like **Redux Toolkit**, **React Query**, and **Axios** effectively.  
-- Anything about **JavaScript**, **TypeScript**, or **.NET Core**.  
+- Anything about **JavaScript**, **TypeScript**, or **GraphQL**.  
 
 ## 🌟 Fun Facts  
 - Advocate for clean, efficient code and **continuous improvement** in software practices.  
@@ -36,14 +36,14 @@ Every day is a learning day 🎉, and I strive to write clean, maintainable code
   ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-- ### Front-End  
-   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-   ![CSS3 Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
-   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-   ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-   ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-   ![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
+- ### Front-End
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3 Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
+  ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+  ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
 
 - ### Databases
    ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
